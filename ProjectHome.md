@@ -1,0 +1,1 @@
+Some sample PHP scripts written as a Facebook app to explorer the Graph API provided by Facebook. (just remember to change all the "YOUR\_APP\_ID" to your App ID, and "YOUR\_APP\_SECRET" to your App secret provided by Facebook.
